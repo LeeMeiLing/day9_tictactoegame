@@ -60,6 +60,7 @@ public class TicTacToe {
                         break;
                     }else if( a == 8){
                         winner = "draw";
+                        System.out.println("It's a draw!");
                     }
                 }
             }
